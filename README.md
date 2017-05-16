@@ -1,6 +1,6 @@
 ## Estudo em Appium
 
-Projeto criado por em prática os estudos usando Appium
+Projeto criado para por em prática os estudos de Appium para automação em Android
 
 ## Ferramentas
 
