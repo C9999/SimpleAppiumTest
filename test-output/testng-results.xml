@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83285" started-at="2017-05-16T17:57:23Z" finished-at="2017-05-16T17:58:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83285" started-at="2017-05-16T17:57:23Z" finished-at="2017-05-16T17:58:47Z">
+      <class name="br.com.cssp.FistAppiumTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:br.com.cssp.FistAppiumTest@7d9d1a19]" name="SetUp" is-config="true" duration-ms="76069" started-at="2017-05-16T14:57:23Z" finished-at="2017-05-16T14:58:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="SimpleTest()[pri:0, instance:br.com.cssp.FistAppiumTest@7d9d1a19]" name="SimpleTest" duration-ms="7196" started-at="2017-05-16T14:58:39Z" finished-at="2017-05-16T14:58:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SimpleTest -->
+      </class> <!-- br.com.cssp.FistAppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
