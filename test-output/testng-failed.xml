@@ -5,7 +5,8 @@
     <classes>
       <class name="br.com.cssp.FistAppiumTest">
         <methods>
-          <include name="SimpleTest"/>
+          <include name="ConsultaVariosCEPsApagandoAConsultaAnterior"/>
+          <include name="DigitaCEPConsultaAnterioresVoltarBuscaPorCEP"/>
           <include name="SetUp"/>
         </methods>
       </class> <!-- br.com.cssp.FistAppiumTest -->

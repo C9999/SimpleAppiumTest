@@ -7,8 +7,8 @@ Projeto criado para por em prática os estudos de Appium para automação em And
 - Script de teste feito em Java;
 - Selenium;
 - TestNG;
-- Android AVD, versaão 5.1;
+- Android AVD, versão 5.1;
 
 ## Aplicativo automatizado:
 
-Busca CEP: https://github.com/heitorcolangelo/BuscaCEP
+BuscaCEP: https://github.com/heitorcolangelo/BuscaCEP
